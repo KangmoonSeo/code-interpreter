@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "ReAct-Agent Langchain Runner",
+            "name": "code-interpreter Runner",
             "type": "python",
             "request": "launch",
             "program": "${file}",

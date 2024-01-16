@@ -9,6 +9,9 @@ langchain = "*"
 openai = "*"
 black = "*"
 pylint = "*"
+langchain-experimental = "*"
+langchain-openai = "*"
+qrcode = "*"
 
 [dev-packages]
 
